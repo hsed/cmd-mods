@@ -9,7 +9,8 @@ A simple guide to install and configure software that will help regain cmd its p
 
 ## Configuration
 1. Need custom init.bat 
-2. Need reg edits ``Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`` , add key 'AutoRun'
+2. Need reg edits ``Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`` , add key ``AutoRun``
 
 
 ## Results
+<img src="https://raw.githubusercontent.com/hsed/cmd-mods/master/results/test1.png" height="480">
